@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ConsiderTimeInFilter.DisplayValue" Value="خاطئ" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.EntityColumnMetaPathes.Caption" Value="أعمدة للقراءة" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.FunctionType.Caption" Value="نوع الدالة التجميعية" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.NumberOfRecords.Caption" Value="عدد السجلات لقراءة" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.OrderInfo.Caption" Value="ترتيب الأعمدة" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ReadSomeTopRecords.Caption" Value="اقرأ أولا" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultCount.Caption" Value="عدد السجلات" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultDateTimeFunction.Caption" Value="نتيجة الوظيفة" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultEntity.Caption" Value="العنصر الأول لناتج المجموعة" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultEntityCollection.Caption" Value="المجموعة الناتجة" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultFloatFunction.Caption" Value="نتيجة الوظيفة" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultIntegerFunction.Caption" Value="نتيجة الوظيفة" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultRowsCount.Caption" Value="عدد سجلات القراءة" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultType.Caption" Value="نوع النتيجة" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b7f53990-7bbf-48f0-a188-c194be6da6c9",
+    "Name": "PCFolder",
+    "ModifiedOnUtc": "\/Date(1630686261000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "PC folder",
+    "DependsOn": []
+  }
+}

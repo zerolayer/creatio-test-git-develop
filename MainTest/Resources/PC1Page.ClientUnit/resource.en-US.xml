@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;PC&quot;" />
+			<Item Name="LocalizableStrings.Schema8820641aDetail6cf68247DetailCaptionOnPage.Value" Value="Part in PC V2" />
+			<Item Name="LocalizableStrings.Tab31ebad12TabLabelTabCaption.Value" Value="main" />
+		</Items>
+	</Group>
+</Resources>

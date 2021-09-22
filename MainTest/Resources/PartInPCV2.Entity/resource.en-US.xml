@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Part In PC VC" />
+			<Item Name="Columns.c.Caption" Value="PC" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.PC.Caption" Value="PC" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e832cb16-6bdb-43db-aa55-09a66a96d201",
+    "Name": "CreateLinksForNotConnectedAccountsProcess",
+    "ModifiedOnUtc": "\/Date(1625058959000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Create links for not connected Accounts",
+    "DependsOn": []
+  }
+}

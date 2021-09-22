@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca7a8ff3-767e-4045-b188-38c50b24b61f",
+    "Name": "Process_09143fd",
+    "ModifiedOnUtc": "\/Date(1624548769000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Change AccountName ",
+    "DependsOn": []
+  }
+}

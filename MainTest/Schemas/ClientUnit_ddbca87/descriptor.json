@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "49c3d157-7300-400e-aeb3-4fad8c246281",
+    "Name": "ClientUnit_ddbca87",
+    "ModifiedOnUtc": "\/Date(1625663684000)\/",
+    "Parent": {
+      "UId": "21620f25-166f-42f1-8b4d-224a959040a3",
+      "Name": "BasePageProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Test page. Connect Account",
+    "DependsOn": []
+  }
+}

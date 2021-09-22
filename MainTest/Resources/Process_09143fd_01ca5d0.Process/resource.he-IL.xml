@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ConsiderTimeInFilter.DisplayValue" Value="שגוי" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultCount.Caption" Value="מספר רשומות" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultType.Caption" Value="Type of result" />
+		</Items>
+	</Group>
+</Resources>

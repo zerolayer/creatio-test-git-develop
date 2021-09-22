@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="עכב עד" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="יותר מרכיב אחד מחובר לתהליך. מזהה תהליך: {0}" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="העבר לתור מחדש" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="לא ניתן לסדר מחדש את הפריט בתור. הודעת שגיאה: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="הדף אינו מחובר אל רכיב תור שולחן העבודה של הסוכן. הפעולה בוטלה." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="לא ניתן לסדר מחדש פריט בתור" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="סודר מחדש בתור בהצלחה" />
+		</Items>
+	</Group>
+</Resources>

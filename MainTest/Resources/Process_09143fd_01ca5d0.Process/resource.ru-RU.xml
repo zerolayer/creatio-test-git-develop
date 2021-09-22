@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.SelectFirstAccount.Parameters.ResultType.Caption" Value="Тип результата" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="تأجيل حتى" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="أكثر من عنصر قائمة انتظار  متصل بالعملية. معرف العملية: {0}" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="اعادة وضعه في الانتظار" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="تعذر اعادة ادراج العنصر في قائمة الانتظار. رسالة الخطأ: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="صفحة غير متصلة بعنصر قائمة انتظار سطح مكتب الوكيل. إلغاء الإجراء." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="تعذر اعادة ادراج العنصر في قائمة الانتظار" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="تمت اعادة وضعه في الانتظار بنجاح" />
+		</Items>
+	</Group>
+</Resources>

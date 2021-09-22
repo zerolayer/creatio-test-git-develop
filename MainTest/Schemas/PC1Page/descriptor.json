@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b73c0dd2-cf0f-4114-991e-dde983878177",
+    "Name": "PC1Page",
+    "ModifiedOnUtc": "\/Date(1630687704000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"PC\"",
+    "DependsOn": []
+  }
+}

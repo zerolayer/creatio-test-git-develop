@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5df6ec9b-a3bb-4b10-9f4d-3378234e345d",
+    "Name": "PCInTag",
+    "ModifiedOnUtc": "\/Date(1630686266000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "PC section record tag",
+    "DependsOn": []
+  }
+}

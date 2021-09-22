@@ -1,0 +1,25 @@
+﻿{
+  "Descriptor": {
+    "UId": "06696ecc-58d9-5577-907a-c7ab14ce0198",
+    "Name": "MainTest",
+    "ModifiedOnUtc": "\/Date(1624485691000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "78ae52a2-7d50-48a5-9d4e-9cbec55c3d67",
+        "PackageVersion": "7.8.0",
+        "Name": "MarketingSoftkeyEnu"
+      },
+      {
+        "UId": "89fcb3d7-acf9-4801-b20b-6718c5ef3d5e",
+        "PackageVersion": "7.8.0",
+        "Name": "OrderInSales_OperatorSingleWindow_Softkey_ENU"
+      },
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}

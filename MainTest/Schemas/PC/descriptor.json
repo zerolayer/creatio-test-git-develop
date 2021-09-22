@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "39d1a550-678e-425b-8c8b-6d5bfca62713",
+    "Name": "PC",
+    "ModifiedOnUtc": "\/Date(1630686512000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "PC",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Postpone till" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="More than one queue element connected to the process. Process Id: {0}" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Re-queue" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Unable to re-queue item. Error message: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Page is not connected to the agent desktop queue element. Action cancelled." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Unable to re-queue item" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Successfully re-queued" />
+		</Items>
+	</Group>
+</Resources>

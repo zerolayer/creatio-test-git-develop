@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.57e35f42-535b-42be-bab4-6d5cebf30241.Image" Type="Image" Value="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDAAACwwBP0AiyAAAAR1JREFUOE+1krtKA0EUQFcIFiJYJR+hYGdlQsDUNiII6bWwEmNnb5UuEPyBVPkCP8HGxk7tBKu0YhOi58xmwrjsBonkwIG589g7c+9m62ATz3CII7zDA/wTe/iEU3zGB3zHb7zHbazEw184xoYTCU18wUesOVHEa5vZw5EtbOXDQB0neBuiAr7Za6eZT3CWDxdc4if68V9YMN8sLnq4j779FNsou+hcerOA1bZg4qKZ3Rj9QNlB4+MQJdgqq51iZjenHKJz+yFKsM8uWO2I146ZIwN8xY0QFbDPtspql3GFPu0oRCX4k9hnW2W1LZhv9tpmjnXpYSX+JPbZVrk5+oYdvJnH17iU+BNZbQuWvtkb+JHzEK3IBXbz4b/Ish8+oTx1Wf16wQAAAABJRU5ErkJggg==" />
+			<Item Name="Images.bb1a4613-881e-4516-95ad-4ca7ed7feb42.Image" Type="Image" Value="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDAAACwwBP0AiyAAAAQ1JREFUOE+1krFKQlEch68gDhI45UMktDVlCDq3hCC019AU5dbeCwTSCzj5BD6CS0tbtQlOrtES2vedunA4eE0UP/jg/u+5957z//1vtg8q2MMBDvERT3AjGviC3/iKY5ziEp/xAAvx5S8cYd0bEU18wwmWvZHisd3Zl4s4xDk+hCrBnj12unPKDX5iNVQRBmbP4uIFdiNbKEdoHmehijBtAxMXF+iDuTOUGlqfhyrCUZn2f5yiHzgOVYRzdsG01/GE71gKVYJzdlSmvYpbtLV2qFbgT+KcHZVpG5g9e2x3znO5x0L8SZyzo/Lh3A/sYP+vvsO1OEqnYdoGFvfsCfzIVai25Bovfy93Ist+AFsjN4NJbkjTAAAAAElFTkSuQmCC" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Запланировать на дату" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Найдено более одного элементов очереди связанных с процессом. Идентификатор процесса: {0}" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Вернуть в очередь" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Ошибка возвращения элемента в очередь. Сообщение об ошибке: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Страница не связана с элементом очереди единого окна. Действие отменено." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Ошибка при возвращении элемента в очередь" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Элемент успешно возвращен в очередь" />
+		</Items>
+	</Group>
+</Resources>

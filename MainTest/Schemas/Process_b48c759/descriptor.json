@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "484ed46d-f9bb-4aa2-ad09-395b47d4803f",
+    "Name": "Process_b48c759",
+    "ModifiedOnUtc": "\/Date(1626379729000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Test serialize params process ",
+    "DependsOn": []
+  }
+}

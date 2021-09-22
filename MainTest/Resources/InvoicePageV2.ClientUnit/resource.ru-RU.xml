@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Запланировать на дату" />
+			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="Вы действительно хотите отменить счет и отвязать его от графика поставок и оплат?" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Найдено более одного элементов очереди связанных с процессом. Идентификатор процесса: {0}" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Номер заказа, в рамках которого создан счет. Поле недоступно для редактирования и заполняется автоматически при создании счета на основании заказа" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Вернуть в очередь" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Ошибка возвращения элемента в очередь. Сообщение об ошибке: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Страница не связана с элементом очереди единого окна. Действие отменено." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Ошибка при возвращении элемента в очередь" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Элемент успешно возвращен в очередь" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,133 @@
+{
+	"LookupDialog": {
+		"TitleTemplate": "Выбрать: {0}",
+		"Selected": "Выбранные:",
+		"SelectButton": "Выбрать",
+		"CancelButton": "Отмена",
+		"Blankslate": "Для этого объекта нет ни одной записи"
+	},
+	"BaseTableDetail": {
+		"Add": "Добавить",
+		"BlankslateWithFilters": "При установленном фильтре в разделе нет ни одной записи. Очистите фильтр или измените условия фильтрации"
+	},
+	"SearchInput": {
+		"Placeholder": "Поиск",
+		"Settings": {
+			"Cancel": "Отмена",
+			"Apply": "Применить",
+			"SearchColumnTemplate": "Поиск по полю \"{0}\"",
+			"StartsWith": "Начинается",
+			"Contains": "Содержит",
+			"Equals": "Равно"
+		}
+	},
+	"ChatSettings": {
+		"ChatWindow": {
+			"AcceptChatButton": "Принять чат",
+			"AlreadyAssignedChat": "Чат был назначен на другого оператора",
+			"NewMessages": "Новые сообщения",
+			"ChatIsCompleted": "Чат завершен",
+			"AcademyLink": "https://academy.terrasoft.ru/",
+			"LastChatMessageAuthorCaption": "Вы:",
+			"DraftMessageCaption": "Черновик:",
+			"BlankSlates": {
+				"Default": {
+					"reason": "Каналы для работы с чатами не настроены",
+					"textStart": "Обратитесь к администратору системы для настройки канала. Узнайте больше о работе с чатами в ",
+					"academyLink": {
+						"displayText": "Академии"
+					}
+				},
+				"HasRightsAndNoChannel": {
+					"reason": "Каналы для работы с чатами не настроены",
+					"splitTextLink": {
+						"href": "/ClientApp/#/ChatSettings",
+						"displayText": "Добавьте"
+					},
+					"textEnd": " новый канал. Узнайте больше о работе с чатами в ",
+					"academyLink": {
+						"displayText": "Академии"
+					}
+				},
+				"HasRightsAndChannelButInactive": {
+					"reason": "Новые чаты распределяются только на активных операторов",
+					"textStart": "Измените свой статус на \"Активен\", чтобы продолжить работу с чатом. Узнайте больше о работе с чатами в ",
+					"academyLink": {
+						"displayText": "Академии"
+					}
+				},
+				"HasRightsAndChannelAndIsActive": {
+					"reason": "Нет новых чатов в очереди",
+					"textStart": "Узнайте больше о работе с чатами в ",
+					"academyLink": {
+						"displayText": "Академии"
+					}
+				},
+				"HasNotRightsAndHasChannelAndInactive": {
+					"reason": "Новые чаты распределяются только на активных операторов",
+					"textStart": "Измените свой статус на \"Активен\", чтобы продолжить работу с чатом. Узнайте больше о работе с чатами в ",
+					"academyLink": {
+						"displayText": "Академии"
+					}
+				},
+				"HasNotRightsAndHasChannelAndIsActive": {
+					"reason": "Нет новых чатов в очереди",
+					"textStart": "Узнайте больше о работе с чатами в ",
+					"academyLink": {
+						"displayText": "Академии"
+					}
+				},
+				"HasNoActiveChats": {
+					"reason": "Похоже, у Вас нет чатов в работе. Проверьте список новых чатов"
+				}
+			},
+			"Actions": {
+				"Complete": "Завершить чат",
+				"ProcessesDivider": "Процессы",
+				"EmptyProcessesList": "Добавьте бизнес-процесс на детали \"Действия чата\"",
+				"SearchFacebook": "Поиск на Facebook",
+				"ContactDuplicates": {
+					"Show": "Перейти к дублям контактов",
+					"NotFound": "Дубли контактов не найдены",
+					"Find": "Найти дубли контактов"
+				},
+				"Back": "Назад"
+			},
+			"ChatListTitle": "Активные чаты",
+			"Tips": {
+				"BackToChats": "Вернуться к списку"
+			},
+			"Bots": {
+				"Name": "Bot"
+			},
+			"OversizeFiles": "Превышен максимальный размер файла 25 Мб\n{0}",
+			"NewChatsTitle": "Новые чаты"
+		},
+		"History": {
+			"Captions": {
+				"StartDate": "Чат начат: {0}, ",
+				"EndDate": "Чат завершен: {0}, "
+			}
+		},
+		"PreChatSummary": {
+			"Caption": "Информация о чате",
+			"Fields": {
+				"Source": "Источник"
+			}
+		},
+		"Deduplication": {
+			"DuplicatesFoundTemplate": "Найдено {0} похожих контактов",
+			"DuplicatesNotFound": "Похожие контакты не найдены",
+			"FindDuplication": "Найти похожие контакты"
+		}
+	},
+	"InfoDialog": {
+		"OK": "OK"
+	},
+	"MessageTemplate": {
+		"Suggestion": "Предложенный шаблон",
+		"SuggestionHint": "Попробуйте ввести слово, чтобы начать поиск",
+		"QuickSearchHint": "Введите // для поиска шаблона",
+		"TemplateSearchCaption": "Шаблоны ответов"
+	}
+}

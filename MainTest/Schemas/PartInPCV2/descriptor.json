@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3502ae3d-ebdf-4fbe-8f4d-33375a86d9a0",
+    "Name": "PartInPCV2",
+    "ModifiedOnUtc": "\/Date(1630687604000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Part In PC VC",
+    "DependsOn": []
+  }
+}
