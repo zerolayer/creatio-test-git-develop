@@ -6,7 +6,7 @@ define("PC1Page", [], function() {
 				dataValueType: this.Terrasoft.DataValueType.TEXT,
 				type: this.Terrasoft.ViewModelColumnType.VIRTUAL_COLUMN,
 				value: "test-field-value",
-				caption: "tesdt-filed-stas"
+				caption: "tesdt-filed-stas-change"
 			}
 		},
 		modules: /**SCHEMA_MODULES*/{}/**SCHEMA_MODULES*/,
