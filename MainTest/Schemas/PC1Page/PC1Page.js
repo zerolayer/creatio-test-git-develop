@@ -7,6 +7,12 @@ define("PC1Page", [], function() {
 				type: this.Terrasoft.ViewModelColumnType.VIRTUAL_COLUMN,
 				value: "test-field-value",
 				caption: "tesdt-filed-22"
+			},
+			"SecondCommitField": {
+				dataValueType: this.Terrasoft.DataValueType.TEXT,
+				type: this.Terrasoft.ViewModelColumnType.VIRTUAL_COLUMN,
+				value: "test-field-value",
+				caption: "tesdt-filed-33"
 			}
 		},
 		modules: /**SCHEMA_MODULES*/{}/**SCHEMA_MODULES*/,
