@@ -3,9 +3,10 @@ define("PC1Page", [], function() {
 		entitySchemaName: "PC",
 		attributes: {
 			"FirstCommitField": {
-				dataValueType: this.Terrasoft.DatraValueType.TEXT,
+				dataValueType: this.Terrasoft.DataValueType.TEXT,
 				type: this.Terrasoft.ViewModelColumnType.VIRTUAL_COLUMN,
-				value: "test"
+				value: "test-field-value",
+				caption: "tesdt-filed"
 			}
 		},
 		modules: /**SCHEMA_MODULES*/{}/**SCHEMA_MODULES*/,
